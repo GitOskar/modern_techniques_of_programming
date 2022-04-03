@@ -2,28 +2,28 @@
 
 ## Description
 
-### Repository contains some own implemantations of design patterns, for specific problems
+#### Repository contains some own implemantations of design patterns, for specific problems
 
 ## Table of Contents
 
-### ChainDesignPattern - Chain of responsibility
+#### ChainDesignPattern - Chain of responsibility
 
-### Mediator - Mediator
+#### Mediator - Mediator
 
-### adapter_design_pattern - Adapter
+#### adapter_design_pattern - Adapter
 
-### builder_design_pattern - Builder
+#### builder_design_pattern - Builder
 
-### command_design_pattern - Command
+#### command_design_pattern - Command
 
-### decorator_design_pattern - Decorator
+#### decorator_design_pattern - Decorator
 
-### event_broker - Event broker
+#### event_broker - Event broker
 
-### event_bus - Event bus
+#### event_bus - Event bus
 
-### obeserver_design_pattern - Observer
+#### obeserver_design_pattern - Observer
 
-### facade -Facade
+#### facade -Facade
 
-### state - State
+#### state - State
